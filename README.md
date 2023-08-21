@@ -15,7 +15,6 @@ __Link__: https://github.com/pup98/Data-Storytelling-SQL-
 
 ### Machine learning Projects
 * Logistic Regression App: (https://github.com/pup98/Forest-Fire-Application) <br />
-* CNN Face mask dectection: (https://github.com/pup98/Face-Mask-Detection-Project) <br />
-* Skin Cancer Imange Classification (CNN):  (https://github.com/pup98/Skin-cancer-detection-CNN-project) <br />
+* Tom Cruise Face dectection: (https://github.com/pup98/Tom-Cruise-Face-Detection-Project/tree/main) <br />
 * SVM Cancer (Benign and tumour): (https://github.com/pup98/SVM-on-cancer-data) <br />
 * Customer Segmentation using K-Means: (https://github.com/pup98/Customer-Segmentation-Using-K-Means-/tree/main) <br />

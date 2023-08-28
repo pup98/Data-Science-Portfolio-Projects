@@ -1,4 +1,4 @@
-# Data-Science-Portfolio-Projects
+# Data-Science-Resume-Portfolio-Projects
 
 Hi there! Thanks a lot for viewing this page. Here, I have summarized my skills and datascience projects that show my credibity
 

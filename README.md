@@ -18,3 +18,6 @@ __Link__: https://github.com/pup98/Data-Storytelling-SQL-
 * Tom Cruise Face dectection: (https://github.com/pup98/Tom-Cruise-Face-Detection-Project/tree/main) <br />
 * SVM Cancer (Benign and tumour): (https://github.com/pup98/SVM-on-cancer-data) <br />
 * Customer Segmentation using K-Means: (https://github.com/pup98/Customer-Segmentation-Using-K-Means-/tree/main) <br />
+
+### NLP Project
+Text Processing Pipeline: [Project Link](https://github.com/pup98/Text-Processing-Pipeline/tree/main)
